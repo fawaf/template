@@ -1,1 +1,3 @@
-
+# secret bits
+*.key
+*.p12
